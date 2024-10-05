@@ -1,1 +1,2 @@
-npm run dev with nodemon
+npm install
+npm run dev 
